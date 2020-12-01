@@ -4,7 +4,9 @@ The page is annotated as a personal log for events.
 
 GIFs are large and can take a while to load/play smoothly. 
 
-Optimized for decently sized on HD screens.
+Optimized for decently sized on landscape HD screens (Significant distortion of images on phones!)
+
+
 
 # Flyball
 
