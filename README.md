@@ -21,9 +21,9 @@ Interestingly, does not drop the ball.
 
 Tried using a vanity mirror to capture side and top frame together using microscope for detail. 
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/microscope.jpg" height="256" width="256"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/vanitymirror.jpg" height="256" width="256">
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/microscope.jpg" height="340" width="256"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/vanitymirror.jpg" height="340" width="256">
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/dualcapture.jpg" height="256" width="256"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/sideprofile.jpg" height="256" width="256">
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/dualcapture.jpg" height="290" width="256"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/sideprofile.jpg" height="290" width="256">
 
 # NeuroMuscularJunction
 
