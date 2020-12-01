@@ -1,10 +1,13 @@
-Note: GIFs are large and can take a while to load/play smoothly.
+Note: 
+
+GIFs are large and can take a while to load/play smoothly. 
+Optimized for desktop view.
 
 # Flyball
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/fromup.GIF" height="256" width="256">
 
-Footage from the fly on a ball set-up. 
+close up from top to capture head titlts and ball movement
 
-![](/Images/fromup.GIF | )
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/fromup.GIF" height="256" width="256">
 
 # NeuroMuscularJunction
