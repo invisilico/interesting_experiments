@@ -2,7 +2,7 @@ Note:
 
 The page is annotated as a personal log for events.
 GIFs are large and can take a while to load/play smoothly. 
-Optimized for desktop view.
+Optimized for small images on HD screens.
 
 # Flyball
 
@@ -37,7 +37,7 @@ Sharpened old forceps into scissors on whetstone
 
 Larval tissue cut neatly, dissection successful with insect pins and gel pad.
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/scissor.jpg" height="340" width="256"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/goodsection.jpg" height="340" width="256">
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/scissor.jpg" height="340" width="256"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/good%20section.jpg" height="340" width="256">
 
 # Social Behavior observations
 
@@ -59,7 +59,7 @@ Ratiometric imaging was possible for gut tissue, next trial on giant fibre inter
 
 Brain, VNC
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/cleandissection.jpg" height="207" width="256"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/cns.jpg" height="217" width="184">
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/cleandissection.jpg" height="207" width="256"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/cns.jpg" height="207" width="184">
 
 # Color gradient for "morning" light conditions
 
