@@ -4,8 +4,7 @@ GIFs are large and can take a while to load/play smoothly.
 Optimized for desktop view.
 
 # Flyball
-![](/Images/fromup.GIF)
-
+![](/Images/fromup.GIF)![](/Images/fromside.GIF)
 
 close up from top to capture head titlts and ball movement
 
