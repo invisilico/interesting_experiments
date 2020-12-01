@@ -8,7 +8,7 @@ Optimized for small images on HD screens.
 
 Fly successfully held ball for >1 hour, head tilts seem stochastic.
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/fromup.GIF" height="512" width="512"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/fromside.GIF" height="512" width="512">
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/fromup.GIF" height="360" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/fromside.GIF" height="360" width="360">
 
 Fly occasionally took a break to either groom or try to free itself, unsure which.
 
