@@ -4,7 +4,7 @@ Note: GIFs are large and can take a while to load/play smoothly.
 
 Footage from the fly on a ball set-up. 
 
-!()[https://github.com/invisilico/interesting_experiments/blob/main/Images/fromup.GIF]
+![](/Images/fromup.GIF)
 
 
 # NeuroMuscularJunction
