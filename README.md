@@ -21,6 +21,9 @@ Interestingly, does not drop the ball.
 
 (Does it prefer something to hold over non-holding of object? What about flight?)
 
+![](/Images/dualcapture.jpg)
+![](/Images/sideprofile.jpg)
+
 # NeuroMuscularJunction
 
 # fly Brains and ventral nerve cords
