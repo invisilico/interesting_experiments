@@ -15,6 +15,11 @@ Fly occasionally takes a break to either groom or try to free itself.
 ![](/Images/groomup.GIF)
 ![](/Images/groom.GIF)
 
+Interestingly, does not drop the ball. 
+
+(Does it realize it must rely on legs in absence of wings?)
+
+(Does it prefer something to hold over non-holding of object? What about flight?)
 
 # NeuroMuscularJunction
 
