@@ -43,6 +43,18 @@ Larval tissue cut neatly, dissection successful with insect pins and gel pad.
 
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/scissor.jpg" height="478" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/good%20section.jpg" height="478" width="360">
 
+Under bright field microscopy
+
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/skin.jpg" height="480" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/skincloseup.jpg" height="480" width="360">
+
+Under fluorescence microscopy
+
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/nmj.jpg" height="480" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/musclebands.jpg" height="480" width="360">
+
+Single muscle sheet and boutons
+
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/singlemuscle.jpg" height="480" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/boutons.jpg" height="480" width="360">
+
 # Social Behavior observations
 
 Crowded vials have patterns in motion, social spaces are maintained, exceptional amount of control must be required to swarm.
@@ -65,4 +77,7 @@ Brain, VNC
 
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/cleandissection.jpg" height="323" width="400"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/cns.jpg" height="323" width="287">
 
+# Random Interesting images
+
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/mouthparts2.jpg" height="480" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/mouthparts.jpg" height="480" width="360">
 
