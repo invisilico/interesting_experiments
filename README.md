@@ -45,15 +45,15 @@ Larval tissue cut neatly, dissection successful with insect pins and gel pad.
 
 Under bright field microscopy
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/skin.jpg" height="480" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/skincloseup.jpg" height="480" width="360">
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/skin.jpg" height="270" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/skincloseup.jpg" height="270" width="360">
 
 Under fluorescence microscopy
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/nmj.jpg" height="480" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/musclebands.jpg" height="480" width="360">
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/nmj.jpg" height="270" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/musclebands.jpg" height="270" width="360">
 
 Single muscle sheet and boutons
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/singlemuscle.jpg" height="480" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/boutons.jpg" height="480" width="360">
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/singlemuscle.jpg" height="270" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/boutons.jpg" height="270" width="360">
 
 # Social Behavior observations
 
@@ -79,5 +79,16 @@ Brain, VNC
 
 # Random Interesting images
 
-<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/mouthparts2.jpg" height="480" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/mouthparts.jpg" height="480" width="360">
+Larval mouthpart "hands up in the air"
 
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/mouthparts2.jpg" height="270" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/mouthpart.jpg" height="270" width="360">
+
+The end terminus of a larva, the optic lobe (brightfield)
+
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/endoflarva.jpg" height="270" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/opticlobe.jpg" height="270" width="360">
+
+DsRed, start of larval gut "clawed structure", Gradient light to mimic natural morning light conditions (test)
+
+<img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/dsredgutstart.jpg" height="270" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/gradientlight.jpg" height="270" width="360">
+
+The End.
