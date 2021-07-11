@@ -14,7 +14,7 @@ Fly successfully held ball for >1 hour, head tilts seem stochastic.
 
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/fromup.GIF" height="360" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/fromside.GIF" height="360" width="360">
 
-Fly occasionally took a break to either groom or try to free itself, unsure which.
+Fly occasionally took a break to either groom or try to free itself.
 
 
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/groomup.GIF" height="360" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/groom.GIF" height="360" width="360">
@@ -34,8 +34,7 @@ Failed due to mirror depth and angle, need a thin film reflective surface next t
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/dualcapture.jpg" height="408" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/sideprofile.jpg" height="408" width="360">
 
 # NeuroMuscularJunction
-
-Sharpened old forceps into scissors on whetstone
+Fashioned dissection scissors from old forceps on whetstone
 
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/snippy.GIF" height="512" width="512">
 
@@ -51,7 +50,7 @@ Under fluorescence microscopy
 
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/nmj.jpg" height="270" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/musclebands.jpg" height="270" width="360">
 
-Single muscle sheet and boutons
+Single muscle sheet
 
 <img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/singlemuscle.jpg" height="270" width="360"><img src="https://github.com/invisilico/interesting_experiments/blob/main/Images/boutons.jpg" height="270" width="360">
 
