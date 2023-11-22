@@ -1,10 +1,12 @@
-Note: 
+# Social Anxiety in mice
 
-The page is annotated as a personal log for events.
 
-GIFs are large and can take a while to load/play smoothly. 
 
-Optimized for decently sized on landscape HD screens (Significant distortion of images on phones!)
+https://github.com/invisilico/interesting_experiments/assets/68754864/7a1c4dc6-7a66-4312-96bc-d069dd8c0b4c
+
+
+
+https://github.com/invisilico/interesting_experiments/assets/68754864/079ea4c8-2d43-4e63-92f1-8403fe303063
 
 
 
